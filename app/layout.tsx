@@ -25,7 +25,7 @@ export const metadata: Metadata = {
 		title: "Cast Keys",
 		description:
 			"Quickly and easily create a signer for your Farcaster account",
-		url: "https://castkeys.xyz",
+		url: "https://castkeys.artlu.xyz",
 		siteName: "Cast Keys",
 		images: ["https://www.castkeys.xyz/og.png"],
 	},
@@ -41,10 +41,10 @@ export const metadata: Metadata = {
 		"fc:frame:image": "https://www.castkeys.xyz/og.png",
 		"fc:frame:button:1": "Open App",
 		"fc:frame:button:1:action": "link",
-		"fc:frame:button:1:target": "https://castkeys.xyz",
+		"fc:frame:button:1:target": "https://castkeys.artlu.xyz",
 		"fc:frame:button:2": "Source Code",
 		"fc:frame:button:2:action": "link",
-		"fc:frame:button:2:target": "https://github.com/stevedylandev/cast-keys",
+		"fc:frame:button:2:target": "https://github.com/artlu99/cast-keys",
 	},
 };
 
