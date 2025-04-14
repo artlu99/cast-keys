@@ -106,7 +106,7 @@ export default function Home() {
 				</h4>
 				<a
 					className="font-bold underline"
-					href="https://github.com/stevedylandev/cast-keys"
+					href="https://github.com/artlu99/cast-keys"
 					target="_blank"
 					rel="noreferrer"
 				>
